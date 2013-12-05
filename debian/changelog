@@ -1,0 +1,8 @@
+ros-hydro-vs060-moveit-config (0.2.1-0quantal) quantal; urgency=high
+
+  * Rename a file to start with lowercase to follow common naming custom
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Thu, 05 Dec 2013 15:00:00 -0000
+
+
