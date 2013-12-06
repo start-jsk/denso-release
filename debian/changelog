@@ -1,0 +1,14 @@
+ros-hydro-densowave (0.2.2-1quantal) quantal; urgency=high
+
+  * Improvement to .rviz files
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Thu, 05 Dec 2013 15:00:00 -0000
+
+ros-hydro-densowave (0.2.1-1quantal) quantal; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Thu, 05 Dec 2013 15:00:00 -0000
+
+
