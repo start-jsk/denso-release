@@ -1,0 +1,33 @@
+ros-hydro-densowave (0.2.5-0raring) raring; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Tue, 10 Dec 2013 15:00:00 -0000
+
+ros-hydro-densowave (0.2.4-0raring) raring; urgency=high
+
+  * add a demo script that runs w/o pendant.
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Mon, 09 Dec 2013 15:00:00 -0000
+
+ros-hydro-densowave (0.2.3-0raring) raring; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 06 Dec 2013 15:00:00 -0000
+
+ros-hydro-densowave (0.2.2-0raring) raring; urgency=high
+
+  * Improvement to .rviz files
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Thu, 05 Dec 2013 15:00:00 -0000
+
+ros-hydro-densowave (0.2.1-0raring) raring; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Thu, 05 Dec 2013 15:00:00 -0000
+
+
