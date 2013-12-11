@@ -1,0 +1,34 @@
+ros-hydro-vs060 (0.2.5-0precise) precise; urgency=high
+
+  * (vs060) Corrected scripts' install path.
+  * (vs060) add a demo script that runs w/o pendant.
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Tue, 10 Dec 2013 15:00:00 -0000
+
+ros-hydro-vs060 (0.2.4-0precise) precise; urgency=high
+
+  * add a demo script that runs w/o pendant.
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Mon, 09 Dec 2013 15:00:00 -0000
+
+ros-hydro-vs060 (0.2.3-0precise) precise; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 06 Dec 2013 15:00:00 -0000
+
+ros-hydro-vs060 (0.2.2-0precise) precise; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Thu, 05 Dec 2013 15:00:00 -0000
+
+ros-hydro-vs060 (0.2.1-0precise) precise; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Thu, 05 Dec 2013 15:00:00 -0000
+
+
