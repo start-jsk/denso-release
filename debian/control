@@ -1,0 +1,12 @@
+Source: ros-hydro-denso-launch
+Section: misc
+Priority: extra
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-control-msgs, ros-hydro-denso-controller, ros-hydro-vs060-moveit-config
+Homepage: http://wiki.ros.org/densowave
+Standards-Version: 3.9.2
+
+Package: ros-hydro-denso-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-control-msgs, ros-hydro-denso-controller, ros-hydro-vs060-moveit-config
+Description: denso_launch
