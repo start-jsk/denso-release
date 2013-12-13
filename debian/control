@@ -1,0 +1,12 @@
+Source: ros-hydro-vs060-moveit-config
+Section: misc
+Priority: extra
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://wiki.ros.org/vs060_moveit_config
+Standards-Version: 3.9.2
+
+Package: ros-hydro-vs060-moveit-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-moveit-planners-ompl, ros-hydro-moveit-ros-move-group, ros-hydro-moveit-ros-visualization
+Description: An automatically generated package with all the configuration and launch files for using the vs060A1_AV6_NNN_NNN with the MoveIt Motion Planning Framework
