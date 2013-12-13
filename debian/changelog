@@ -1,0 +1,42 @@
+ros-hydro-vs060-moveit-config (0.2.6-0quantal) quantal; urgency=high
+
+  * fix to https://github.com/start-jsk/densowave/issues/15
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 13 Dec 2013 08:00:00 -0000
+
+ros-hydro-vs060-moveit-config (0.2.5-0quantal) quantal; urgency=high
+
+  * add launch files to enable standalone demos.
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Wed, 11 Dec 2013 08:00:00 -0000
+
+ros-hydro-vs060-moveit-config (0.2.4-0quantal) quantal; urgency=high
+
+  * Add launch file that emulates demo environment at iREX without the need of pendant device.
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Tue, 10 Dec 2013 08:00:00 -0000
+
+ros-hydro-vs060-moveit-config (0.2.3-0quantal) quantal; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Sat, 07 Dec 2013 08:00:00 -0000
+
+ros-hydro-vs060-moveit-config (0.2.2-0quantal) quantal; urgency=high
+
+  * Improvement to .rviz files
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 06 Dec 2013 08:00:00 -0000
+
+ros-hydro-vs060-moveit-config (0.2.1-0quantal) quantal; urgency=high
+
+  * Rename a file to start with lowercase to follow common naming custom
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 06 Dec 2013 08:00:00 -0000
+
+
