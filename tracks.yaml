@@ -17,5 +17,5 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: https://github.com/start-jsk/densowave.git
+    vcs_uri: https://github.com/start-jsk/denso.git
     version: :{auto}
