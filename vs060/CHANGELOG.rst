@@ -2,9 +2,14 @@
 Changelog for package vs060
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.7 (2014-01-03)
+------------------
+* Rename repository (Fix https://github.com/start-jsk/denso/issues/13, https://github.com/start-jsk/denso/issues/14)
+* Contributors: Isao Isaac Saito
+
 0.2.6 (2013-12-13)
 ------------------
-* fix to https://github.com/start-jsk/densowave/issues/12
+* fix to https://github.com/start-jsk/denso/issues/12
 * Remove manifest.xml since the entire package depends on wet packages open_industrial_ros_controllers.
 * Contributors: Isao Isaac Saito
 
