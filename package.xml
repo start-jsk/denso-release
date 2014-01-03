@@ -1,6 +1,6 @@
 <package>
   <name>vs060</name>
-  <version>0.2.6</version>
+  <version>0.2.7</version>
   <description>
    <p>This package provides <a href = "http://goo.gl/kL0vnf">ORiN</a>-based controller functionality for VS060, a Denso's virtical multi-joint robot.</p>
   </description>
@@ -9,8 +9,8 @@
   <license>BSD</license>
   <author email="ueda@jsk.t.u-tokyo.ac.jp">Ryohei Ueda</author>
   <url type="website">http://wiki.ros.org/vs060</url>
-  <url type="bugtracker">https://github.com/start-jsk/densowave/issues</url>
-  <url type="repository">https://github.com/start-jsk/densowave</url>
+  <url type="bugtracker">https://github.com/start-jsk/denso/issues</url>
+  <url type="repository">https://github.com/start-jsk/denso</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>moveit_commander</build_depend>
