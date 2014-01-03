@@ -1,3 +1,27 @@
+## denso - 0.2.7-0
+
+User `n130s@130s-t440s` released the packages in the `denso` repository by running `/usr/bin/bloom-release --rosdistro hydro --track hydro denso --edit` on `Fri, 03 Jan 2014 15:36:57 -0000`
+
+These packages were released:
+- `denso`
+- `denso_controller`
+- `denso_launch`
+- `vs060`
+- `vs060_moveit_config`
+
+Version of package(s) in repository `denso`:
+- rosdistro version: `null`
+- old version: `0.2.6-0`
+- new version: `0.2.7-0`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.24`
+- rosdep version: `0.10.24`
+- rosdistro version: `0.2.20`
+- vcstools version: `0.1.33`
+
+
 ## densowave - 0.2.6-0
 
 User `n130s@130s-t440s` released the packages in the `densowave` repository by running `/usr/bin/bloom-release --rosdistro hydro --track hydro densowave` on `Fri, 13 Dec 2013 11:06:20 -0000`
