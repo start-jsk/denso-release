@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package densowave
+Changelog for package denso
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0.2.7 (2014-01-03)
+------------------
+* Rename repository (Fix https://github.com/start-jsk/denso/issues/13, https://github.com/start-jsk/denso/issues/14)
+* Contributors: Isao Isaac Saito
 
 0.2.6 (2013-12-13)
 ------------------
