@@ -2,6 +2,9 @@
 Changelog for package denso_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.9 (2015-03-07)
+------------------
+
 0.2.8 (2014-07-30)
 ------------------
 * Add xtion checkerboard demo launch file.
