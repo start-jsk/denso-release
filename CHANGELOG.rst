@@ -2,6 +2,9 @@
 Changelog for package denso_controller
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.9 (2015-03-07)
+------------------
+
 0.2.8 (2014-07-30)
 ------------------
 * (denso_controller) Corrected copyright
