@@ -2,6 +2,13 @@
 Changelog for package denso
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2015-10-31)
+------------------
+
+1.0.0 (2015-10-30)
+------------------
+* update to indigo
+
 0.2.9 (2015-03-07)
 ------------------
 * Add missing .setup_assistant file, without which moveit_setup_assistant can't open an existing moveit config pkg.
