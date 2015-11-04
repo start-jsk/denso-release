@@ -1,0 +1,85 @@
+ros-indigo-vs060-moveit-config (1.1.1-0saucy) saucy; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Tue, 03 Nov 2015 08:00:00 -0000
+
+ros-indigo-vs060-moveit-config (1.1.0-0saucy) saucy; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Sat, 31 Oct 2015 07:00:00 -0000
+
+ros-indigo-vs060-moveit-config (1.0.0-0saucy) saucy; urgency=high
+
+  * update to indigo
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 30 Oct 2015 07:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.9-0saucy) saucy; urgency=high
+
+  * Add missing .setup_assistant file, without which moveit_setup_assistant can't open an existing moveit config pkg.
+  * Check-off query start state from RViz conf.
+  * Contributors: Isaac IY Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Sat, 07 Mar 2015 08:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.8-0saucy) saucy; urgency=high
+
+  * Add xtion checkerboard demo launch file.
+  * vs060_moveit_config/launch/moveit.rviz: add robot model to rviz
+  * Corrected build_dependency (add robot_mechanism_controllers, robot_state_publisher)
+  * Correct robot name (vs06 -> vs060)
+  * Contributors: Isaac IY Saito, Kei Okada
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Wed, 30 Jul 2014 07:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.7-0saucy) saucy; urgency=high
+
+  * Rename repository (Fix https://github.com/start-jsk/denso/issues/13, https://github.com/start-jsk/denso/issues/14)
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 03 Jan 2014 08:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.6-0saucy) saucy; urgency=high
+
+  * fix to https://github.com/start-jsk/denso/issues/15
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 13 Dec 2013 08:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.5-0saucy) saucy; urgency=high
+
+  * add launch files to enable standalone demos.
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Wed, 11 Dec 2013 08:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.4-0saucy) saucy; urgency=high
+
+  * Add launch file that emulates demo environment at iREX without the need of pendant device.
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Tue, 10 Dec 2013 08:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.3-0saucy) saucy; urgency=high
+
+
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Sat, 07 Dec 2013 08:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.2-0saucy) saucy; urgency=high
+
+  * Improvement to .rviz files
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 06 Dec 2013 08:00:00 -0000
+
+ros-indigo-vs060-moveit-config (0.2.1-0saucy) saucy; urgency=high
+
+  * Rename a file to start with lowercase to follow common naming custom
+  * Contributors: Isao Isaac Saito
+
+ -- Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>  Fri, 06 Dec 2013 08:00:00 -0000
+
+
