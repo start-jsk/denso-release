@@ -2,6 +2,11 @@
 Changelog for package vs060
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.2 (2015-12-21)
+------------------
+* vs060_world.launch is no longer requred
+* Contributors: Kei Okada
+
 1.1.1 (2015-11-03)
 ------------------
 
