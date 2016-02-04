@@ -2,6 +2,9 @@
 Changelog for package denso
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.3 (2016-02-04)
+------------------
+
 1.1.2 (2015-12-21)
 ------------------
 * Add gazebo pkg to the metapkg suite
