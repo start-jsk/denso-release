@@ -1,0 +1,12 @@
+Source: ros-indigo-vs060
+Section: misc
+Priority: extra
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-moveit-commander, ros-indigo-moveit-ros-planning, ros-indigo-open-controllers-interface, ros-indigo-roscpp, ros-indigo-roslang
+Homepage: http://wiki.ros.org/vs060
+Standards-Version: 3.9.2
+
+Package: ros-indigo-vs060
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-moveit-commander, ros-indigo-moveit-ros-planning, ros-indigo-open-controllers-interface, ros-indigo-roscpp, ros-indigo-roslang
+Description: This package provides ORiN-based controller functionality for VS060, a Denso's virtical multi-joint robot.
