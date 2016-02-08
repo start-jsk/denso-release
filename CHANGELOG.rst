@@ -2,6 +2,9 @@
 Changelog for package vs060_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.4 (2016-02-08)
+------------------
+
 1.1.3 (2016-02-04)
 ------------------
 * [vs060_gazebo] package.xml improvement (correction, description, sort in alphabetical order)
