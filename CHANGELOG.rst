@@ -2,6 +2,11 @@
 Changelog for package denso_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.5 (2016-04-05)
+------------------
+* install test directories
+* Contributors: Kei Okada
+
 1.1.4 (2016-02-08)
 ------------------
 * fix xtion setings for real robots
