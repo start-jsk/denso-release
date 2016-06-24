@@ -1,0 +1,12 @@
+Source: ros-indigo-vs060-moveit-config
+Section: misc
+Priority: extra
+Maintainer: Ryohei Ueda <ueda@jsk.t.u-tokyo.ac.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-moveit-planners-ompl, ros-indigo-moveit-ros-move-group, ros-indigo-moveit-ros-visualization, ros-indigo-pr2-moveit-plugins, ros-indigo-robot-mechanism-controllers, ros-indigo-robot-state-publisher
+Homepage: http://wiki.ros.org/vs060_moveit_config
+Standards-Version: 3.9.2
+
+Package: ros-indigo-vs060-moveit-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-moveit-planners-ompl, ros-indigo-moveit-ros-move-group, ros-indigo-moveit-ros-visualization, ros-indigo-pr2-moveit-plugins, ros-indigo-robot-mechanism-controllers, ros-indigo-robot-state-publisher, ros-indigo-vs060
+Description: An automatically generated package with all the configuration and launch files for using the vs060A1_AV6_NNN_NNN with the MoveIt Motion Planning Framework
