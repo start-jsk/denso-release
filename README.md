@@ -1,3 +1,32 @@
+## denso (indigo) - 1.1.7-0
+
+The packages in the `denso` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo denso` on `Mon, 22 Aug 2016 17:00:16 -0000`
+
+These packages were released:
+- `denso`
+- `denso_controller`
+- `denso_launch`
+- `vs060`
+- `vs060_gazebo`
+- `vs060_moveit_config`
+
+Version of package(s) in repository `denso`:
+
+- upstream repository: https://github.com/start-jsk/denso.git
+- release repository: https://github.com/start-jsk/denso-release.git
+- rosdistro version: `1.1.6-0`
+- old version: `1.1.6-0`
+- new version: `1.1.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## denso (indigo) - 1.1.6-0
 
 The packages in the `denso` repository were released into the `indigo` distro by running `/usr/bin/bloom-release denso --rosdistro indigo --track indigo` on `Fri, 24 Jun 2016 03:36:40 -0000`
