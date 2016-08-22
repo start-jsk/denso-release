@@ -2,6 +2,9 @@
 Changelog for package denso_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.7 (2016-08-23)
+------------------
+
 1.1.6 (2016-06-24)
 ------------------
 * remove unnessesary depends
