@@ -1,3 +1,32 @@
+## denso (kinetic) - 2.0.1-0
+
+The packages in the `denso` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release denso --rosdistro kinetic --track kinetic` on `Wed, 09 Aug 2017 13:25:49 -0000`
+
+These packages were released:
+- `denso`
+- `denso_launch`
+- `denso_ros_control`
+- `vs060`
+- `vs060_gazebo`
+- `vs060_moveit_config`
+
+Version of package(s) in repository `denso`:
+
+- upstream repository: https://github.com/start-jsk/denso.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## denso (indigo) - 1.1.8-0
 
 The packages in the `denso` repository were released into the `indigo` distro by running `/usr/bin/bloom-release denso --track indigo --rosdistro indigo` on `Fri, 03 Mar 2017 14:10:15 -0000`
