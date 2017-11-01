@@ -1,11 +1,11 @@
 <package>
   <name>vs060_gazebo</name>
-  <version>2.0.1</version>
+  <version>2.0.2</version>
   <description>Gazebo simulation package for Denso vs060 arm.</description>
   
   <author>Mahsa Parsapour</author>
   <maintainer email="mahsa.parsapour@gmail.com">Mahsa Parsapour</maintainer>  
-  <maintainer email="iisaito@opensource-robotics.tokyo.jp">Isaac I. Y. Saito</maintainer>  
+  <maintainer email="dev@opensource-robotics.tokyo.jp">TORK</maintainer>  
 
   <license>BSD</license>
   
