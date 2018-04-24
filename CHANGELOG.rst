@@ -2,6 +2,9 @@
 Changelog for package denso_ros_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.3 (2018-04-24)
+------------------
+
 2.0.2 (2017-11-01)
 ------------------
 * Fix kinetic-devel (denso_ros_control) for simulation usage (`#88 <https://github.com/start-jsk/denso/issues/88>`_)
